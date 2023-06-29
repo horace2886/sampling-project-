@@ -1,4 +1,4 @@
-PyChain Ledger
+##PyChain Ledger
 
 
 ## *Instructions:*
@@ -36,3 +36,5 @@ amount = st.text_input("Amount")
 ## Step 4: Test the PyChain Ledger by Storing Records - Completed in Streamlit.  
 This task included entering values for sender, receiver, and amount several times to add transactions to the chain.  Then I clicked Validate, result = True.  Refer to screenshots.  
 
+![image](https://github.com/horace2886/sampling-project-/assets/48897967/f100be10-0149-4fca-a9fc-daac324e804f)
+![image](https://github.com/horace2886/sampling-project-/assets/48897967/4267957d-406f-48ba-8768-cd4d4d08f522)

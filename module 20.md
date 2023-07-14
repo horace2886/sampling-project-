@@ -142,31 +142,4 @@ Remix - Ethereum IDE is an open source web and desktop application. It fosters a
 * Jupyter Notebook with code runs without errors.
 * Answers on nesassary questions are included
 
-### How to install
 
-* Save remote repo from GitHub to your computer (Desktop): in Terninal type:
-
-```
-cd desktop
-
-git clone https://github.com/nataliaburrey/Solidity_Joint_Account.git
-```
-
-now you can find the folder Solidity_Joint_Account on your desktop
-
-
-
-
-## Helps recruiters
-
-The project was created in collaboration with Berkeley Fintech Bootcamp team
-
-
-## License
-
-[MIT](https://github.com/nataliaburrey/Solidity_Joint_Account/blob/main/LICENSE)
-
-
-
-📔 Contact me: 
-📩 nataliaburrey@gmail.com
